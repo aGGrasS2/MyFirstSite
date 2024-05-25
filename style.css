@@ -1,0 +1,103 @@
+h2{
+    text-align:center;
+    font-family:'Courier New', Courier, monospace;
+    font-size:xx-large;
+}
+.para{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+header, footer{
+    background-image: url(photos/MoscowUniversity.webp);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment:fixed;
+    background-size:cover;
+}
+.menu{
+    padding: 24px;
+    display: flex;
+    list-style: none;
+}
+.button{
+    font-family:'Courier New', Courier, monospace;
+    color: white;
+    font-size: 20px;
+    padding: 20px 0px;
+    margin:0px 20px;
+    text-align:center;
+}
+.img_center{
+    text-align: center;
+}
+h1{
+    text-align:center;
+    font-family:'Courier New', Courier, monospace;
+    font-size:xx-large;
+    color:white;
+}
+a{
+    text-decoration: none;
+}
+.footer_index{
+    text-align: center;
+    font-size:xx-large;
+}
+.wiki{
+    color:white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size:20px;
+    padding:20px 0px;
+    margin:0px 20px;
+}
+.wiki:hover{
+    color: aqua;
+}
+.button:hover{
+    color:aqua;
+}
+.history{
+    font-family: 'Courier New', Courier, monospace;
+}
+.metro_mos{
+    color:black;
+}
+.metro_mos:hover{
+    color:aqua;
+}
+.vagon{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+.metro_header{
+    background-image: url(photos/mayak.webp);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment:fixed;
+    background-size:cover;
+}
+.footer_metro{
+    text-align: center;
+    font-size:xx-large;
+    background-image: url(photos/mayak.webp);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment:fixed;
+    background-size:cover;
+}
+.arch_header{
+    background-image: url(photos/arch.webp);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment:fixed;
+    background-size:cover;
+}
+.footer_arch{
+    text-align: center;
+    font-size:xx-large;
+    background-image: url(photos/arch.webp);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment:fixed;
+    background-size:cover;
+}
